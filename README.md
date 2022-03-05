@@ -32,6 +32,6 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SpectrixDev&theme=react&hide_border=true&bg_color=0D1117"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SpectrixDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></p>
 
 ---

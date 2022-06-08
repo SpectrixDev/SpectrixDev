@@ -1,5 +1,4 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/lRQpMb5.png" height="175px"/></a></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <br>
 <h3><p align="center">✨ Find more at <i><b><a href="https://spectrix.tech">spectrix.tech</a></b></i> ✨</p></h3>
 <br>

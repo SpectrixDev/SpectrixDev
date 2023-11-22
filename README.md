@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/lRQpMb5.png" height="175px"/></a></p>
 <br>
-<h3><p align="center">✨ Find more at <i><b><a href="https://spectrix.tech">spectrixdev.github.io</a></b></i> ✨</p></h3>
+<h3><p align="center">✨ Find more at <i><b><a href="https://spectrixdev.github.io">spectrixdev.github.io</a></b></i> ✨</p></h3>
 <br>
 
 <p align="center"><a href="https://github.com/SpectrixDev?tab=followers"><img src="https://img.shields.io/github/followers/SpectrixDev?label=Followers&style=social" alt="GitHub Badge"></a></p>

@@ -17,10 +17,9 @@
 </p>
 
 <p align="center">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SpectrixDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SpectrixDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
-    
----
+
 
 <p align="center">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpectrixDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />

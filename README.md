@@ -1,11 +1,8 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/lRQpMb5.png" height="175px"/></a></p>
 <br>
-<h3><p align="center">✨ Find more at <i><b><a href="https://spectrixdev.github.io">spectrixdev.github.io</a></b></i> ✨</p></h3>
+<h3><p align="center">✨<i><b><a href="https://spectrixdev.github.io">spectrixdev.github.io</a></b></i> ✨</p></h3>
 <br>
 
-<p align="center"><a href="https://github.com/SpectrixDev?tab=followers"><img src="https://img.shields.io/github/followers/SpectrixDev?label=Followers&style=social" alt="GitHub Badge"></a></p>
-<p align="center"><img src="https://gpvc.arturio.dev/SpectrixDev"/></p>
-<p align="center"><a href="https://twitter.com/SpectrixBruh" target="blank"><img src="https://img.shields.io/twitter/follow/SpectrixBruh?logo=twitter&style=for-the-badge" alt="SpectrixBruh on twitter" /></a> </p>
 <p align="center"><a href="https://www.youtube.com/channel/UC_6onNYJOpoAy1F-w5G5r5w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC_6onNYJOpoAy1F-w5G5r5w?logo=youtube&style=for-the-badge" alt="Spectrix on YouTube" /></a>  <a href="https://www.youtube.com/channel/UC_6onNYJOpoAy1F-w5G5r5w" target="blank"><img src="https://img.shields.io/youtube/channel/views/UC_6onNYJOpoAy1F-w5G5r5w?style=for-the-badge&logo=youtube" alt="Spectrix on YouTube" /></a> </p>
 
 
@@ -20,7 +17,7 @@
 </p>
 
 <p align="center">
-   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SpectrixDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SpectrixDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
     
 ---

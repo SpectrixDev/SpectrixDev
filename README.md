@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/lRQpMb5.png" height="175px"/></a></p>
+<p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/6I6kSPY.png" height="175px"/></a></p>
 <br>
 <h3><p align="center">✨<i><b><a href="https://spectrixdev.github.io">spectrixdev.github.io</a></b></i> ✨</p></h3>
 <br>

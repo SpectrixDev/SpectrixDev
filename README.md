@@ -1,8 +1,23 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/6I6kSPY.png" height="175px"/></a></p>
 
-<h3><p align="center">✨<i><b><a href="https://spectrixdev.github.io">spectrixdev.github.io</a></b></i> ✨</p></h3>
+<h3 align="center">
+  Full-Stack Developer 🛠️ | ML/AI Ops Enthusiast 📊
+  <br> </h3>
+<p align="center">
+  <small><i>On epoch <tt>Infinity</tt>, hoping to converge on a good local minimum.</i></small>
+  <br><br> 
+</p>
+  <h3 align="center">
+  ✨ <b><a href="https://spectrix.dev">spectrix.dev</a></b> ✨
+</h3>
 
-<p align="center"><a href="https://www.youtube.com/channel/UC_6onNYJOpoAy1F-w5G5r5w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC_6onNYJOpoAy1F-w5G5r5w?logo=youtube&style=for-the-badge" alt="Spectrix on YouTube" /></a>  <a href="https://www.youtube.com/channel/UC_6onNYJOpoAy1F-w5G5r5w" target="blank"><img src="https://img.shields.io/youtube/channel/views/UC_6onNYJOpoAy1F-w5G5r5w?style=for-the-badge&logo=youtube" alt="Spectrix on YouTube" /></a> </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SpectrixDev/SpectrixDev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SpectrixDev/SpectrixDev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/SpectrixDev/SpectrixDev/blob/output/github-contribution-grid-snake-dark.svg"" />
+</picture>
+</p>
 
 <p align="center">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SpectrixDev&bg_color=0D1117&color=FF7BFA&line=FF79C6&point=8BE9FD&hide_border=true" />

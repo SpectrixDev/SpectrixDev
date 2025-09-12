@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/6I6kSPY.png" height="175px"/></a></p>
 
 <h3 align="center">
-  Full-Stack Dev 🛠️ | ML/AI Ops 📊
+  I ❤️ Full-Stack Dev 🛠️ & ML/AI Ops 📊
   <br> </h3>
 <p align="center">
   <small><i>{'epoch': ∞} // hoping to converge on a good local minimum</i></small>

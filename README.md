@@ -1,7 +1,8 @@
 <p align="center"><a href="#"><img width="25%" height="auto" src="https://i.imgur.com/6I6kSPY.png" height="175px"/></a></p>
 <p align="center">
   <small><i>{'epoch': ∞} // hoping to converge on a good local minimum</i></small>
-  <br><br> 
+  <br><br>
+  <img src="https://img.shields.io/github/stars/SpectrixDev?style=for-the-badge&logo=github&logoColor=white&label=Stars%20Earned&labelColor=0D1117&color=FF7BFA" alt="Stars earned" />
 </p>
   <h3 align="center">
   <b><a href="https://spectrix.dev">spectrix.dev</a></b>
